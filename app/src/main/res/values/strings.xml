@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">App B BIGDIG</string>
+
+    <string name="intent_filter_key_url">INTENT_URL</string>
+    <string name="intent_filter_key_state">INTENT_STATE</string>
+    <string name="intent_filter_key_ID">_ID</string>
+    <string name="string_status">STATUS</string>
+    <string name="intent_filter_key_bundle">Bundle</string>
+    <string name="string_status_add">ADD</string>
+    <string name="string_status_delete">DELETE</string>
+    <string name="string_status_update">UPDATE</string>
+    <string name="text_app_close">The application is not a stand-alone application and will be closed</string>
+    <string name="text_image_removed">Image was removed</string>
+    <string name="SETTINGS">SETTINGS</string>
+    <string name="GRANT">GRANT</string>
+    <string name="permissions_storage_denied">Storage Permissions denied.</string>
+    <string name="permissions_storage_not_granted">Storage permission is not granted</string>
+    <string name="permissions_grant_storage">Open Permissions and grant the Storage permission</string>
+    <string name="why_needed_grant">Storage permission is needed to download image</string>
+    <string name="no_internet">No internet connection</string>
+
+</resources>
